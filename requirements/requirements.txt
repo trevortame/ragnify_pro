@@ -1,0 +1,14 @@
+streamlit
+streamlit-lottie
+pytesseract
+pdf2image
+Pillow
+requests
+numpy
+scikit-learn
+xgboost
+PyMuPDF
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
